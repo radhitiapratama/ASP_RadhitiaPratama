@@ -1,0 +1,6 @@
+@ASP_RadhitiaPratama_HostAddress = http://localhost:5111
+
+GET {{ASP_RadhitiaPratama_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
